@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941968368556",
+    "project_id": "phone-f8948",
+    "storage_bucket": "phone-f8948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941968368556:android:10d34c0a51e38bc059d009",
+        "android_client_info": {
+          "package_name": "com.example.day_5_phone_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgSmTL6QHhPFgjPSDt6j_R7A1av7cgNM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
